@@ -2,8 +2,6 @@
 
 Esta es una guía básica de unit test para dummies hecha por un dummy D:
 
-[TOC]
-
 ## Estructura de un test
 
 ### SetUp
